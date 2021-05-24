@@ -1,0 +1,33 @@
+
+body{
+    background-color: darkblue;
+    background-image: url(img/32187.png);
+}
+.container{
+    padding-top: 10px;
+    color: white;
+    background-size:cover;
+  }
+h1{
+    padding: 10px;;
+    position: center;
+  }
+div.bg-dark{
+    padding: 15px;
+}
+ol{
+    padding: 25px;
+}
+
+div.carousel-inner{
+    background:blue ;
+    border: aqua;
+    background: center;
+    position: relative;
+    padding: 10mm;
+      
+}
+div.carousel-item{
+    box-align: center;
+
+}
